@@ -1,6 +1,5 @@
 {
   "version": "1.0.1",
-  "extract_dir": "",
   "homepage": "https://github.com/differentrain/Delapp",
   "description": "A simple tool to delete files and folders in Windows.",
   "bin": "Delapp.exe",
@@ -13,7 +12,6 @@
   "autoupdate": {
     "url": "https://github.com/differentrain/Delapp/releases/download/v$version/Delapp.zip"
   },
-  "depends": "",
   "shortcuts": [
     [
       "Delapp.exe",
