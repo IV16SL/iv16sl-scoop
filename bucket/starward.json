@@ -10,7 +10,7 @@
     "github": "https://github.com/Scighost/Starward"
   },
   "autoupdate": {
-    "url": "https://github.com/Scighost/Starward/releases/download/v$version/Starward_Portable_v$version_x64.7z"
+    "url": "https://github.com/Scighost/Starward/releases/download/$version/Starward_Portable_$version_x64.7z"
   },
   "shortcuts": [
     [
