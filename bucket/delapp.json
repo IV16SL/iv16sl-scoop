@@ -10,7 +10,7 @@
     "github": "https://github.com/differentrain/Delapp"
   },
   "autoupdate": {
-    "url": "https://github.com/differentrain/Delapp/releases/download/v$version/Delapp.zip"
+    "url": "https://github.com/differentrain/Delapp/releases/download/$version/Delapp.zip"
   },
   "shortcuts": [
     [
