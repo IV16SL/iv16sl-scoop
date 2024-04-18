@@ -1,11 +1,11 @@
 {
-    "version": "0.11.3",
+    "version": "0.11.4",
     "homepage": "https://github.com/Scighost/Starward",
     "description": "Starward is a game launcher that supports all desktop games of miHoYo.",
     "bin": "Starward.exe",
     "license": "MIT license",
-    "url": "https://github.com/Scighost/Starward/releases/download/0.11.3/Starward_Portable_0.11.3_x64.7z",
-    "hash": "e705ad31e2a9699a47e90c1208b3d464d8377a46bb820e0cfdff165b727eb21b",
+    "url": "https://github.com/Scighost/Starward/releases/download/0.11.4/Starward_Portable_0.11.4_x64.7z",
+    "hash": "437598d4664edd7fe351fe1cd0e708055116cd1a506ec9948539e41701630e79",
     "checkver": {
         "github": "https://github.com/Scighost/Starward"
     },
