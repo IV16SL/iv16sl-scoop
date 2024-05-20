@@ -1,10 +1,10 @@
 {
-    "version": "2024.5.19",
+    "version": "2024.5.20",
     "homepage": "https://www.builtbybel.com/apps/winpilot",
     "description": "Winpilot (former Bloatynosy)",
     "license": "MIT",
-    "url": "https://github.com/builtbybel/Winpilot/releases/download/2024.5.19/Winpilot.zip",
-    "hash": "265bb9ae60e17757b72fa147d4fedcba1ac217ff59f093fd7e8189e1698a0c77",
+    "url": "https://github.com/builtbybel/Winpilot/releases/download/2024.5.20/Winpilot.zip",
+    "hash": "1ee8026ad0deea29dd599d9b61620440b9f809914b8bd0ed05dd88ac05b99ef3",
     "shortcuts": [
         [
             "Winpilot.exe",
